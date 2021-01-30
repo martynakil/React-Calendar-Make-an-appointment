@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+ 
+}
+
+:root {
+  --first-color: rgb(250, 20, 6);
+  --second-color: rgb(190, 210, 197);
+  --hover-color: rgb(209, 33, 24);
+}
+
+
+.title {
+  margin-top: 50px;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  border: 2px solid black;
+  width: 80%;
+  min-height: 20vh;
+  margin-top: 20px;
+  background: radial-gradient(circle, rgb(43, 44, 46) 0%, rgb(25, 25, 25) 93%);
+}
+
+.box__ul {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  width: 80%;
+  min-height: 20vh;
+  margin-top: 20px;
+  margin: 0 auto;
+  align-items: center;
+  background: radial-gradient(circle, rgb(43, 44, 46) 0%, rgb(25, 25, 25) 93%);
+
+}
+.form {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.input, .textarea{
+  margin: 20px;
+  width: 80%;
+  height: 40px;
+  border: 1px solid red;
+
+}
+.textarea {
+  height: 60px;
+}
+
+
+.button {
+  margin: 20px;
+  width: 40%;
+  height: 40px;
+  border: 1px solid red;
+}
+
+.datatext, .timetext {
+  color: white;
+  padding: 10px;
+}
+
+.box__time {
+  display: flex;
+}
+
+.error_text {
+  color:gold;
+  font-style: italic;
+  font-size: 12px;
+}
+
+.box__text--main {
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.ul {
+  list-style: none;
+  list-style-type: decimal;
+}
+.li__item {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 10px;
+  /* width: 90%; */
+}
+.btn__delete {
+  background: transparent;
+  color:green;
+  font-weight: bold;
+  border: none;
+}

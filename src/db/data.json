@@ -1,0 +1,48 @@
+{
+  "meetings": [
+    {
+      "firstName": "Jan",
+      "lastName": "Kowalski",
+      "email": "jan@kowalski.not",
+      "date": "2022-01-01",
+      "time": "10:00",
+      "id": 1
+    },
+    {
+      "firstName": "Ola",
+      "lastName": "Kowalska",
+      "email": "ooo@o2.pl",
+      "textarea": "hej",
+      "date": "2021-01-03",
+      "time": "16:21",
+      "id": 2
+    },
+    {
+      "firstName": "Tymon",
+      "lastName": "Koszka",
+      "email": "oooooooo@wp.pl",
+      "textarea": "siema",
+      "date": "2021-01-08",
+      "time": "16:24",
+      "id": 3
+    },
+    {
+      "firstName": "Ola ",
+      "lastName": "Kosowska",
+      "email": "ola123@wp.pl",
+      "textarea": "hello!!",
+      "date": "2021-01-19",
+      "time": "20:53",
+      "id": 4
+    },
+    {
+      "firstName": "martin",
+      "lastName": "olag",
+      "email": "martin123@gmail.com",
+      "textarea": "hello",
+      "date": "2021-02-11",
+      "time": "02:55",
+      "id": 5
+    }
+  ]
+}
