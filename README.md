@@ -7,7 +7,10 @@
 ----
 <h4>My task was to create a form that stores information about the meeting with a given person. The data is stored in the local API.</h4>
 
+----
+
 *In this project, I studied components in React* * :blush:
+
 -------
 
 <h3>What did I use in the project? What have I learned?</h3>
