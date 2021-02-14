@@ -9,17 +9,15 @@
 
 ----
 
-*In this project, I studied components in React* * :blush:
 
--------
 
 <h3>What did I use in the project? What have I learned?</h3>
 
 * I practised components and compositions in React
 * How to use fetch to get data
-* How to use Json-server
-* What is component life cycle
-* what is state in react
+* How to use [Json-server](https://github.com/typicode/json-server)
+* What is [component life cycle](https://reactjs.org/docs/react-component.html)
+* what is [state](https://reactjs.org/docs/state-and-lifecycle.html#gatsby-focus-wrapper)
 * how to capture data from the form and add it to the API
 
 -----
@@ -29,8 +27,8 @@
 * An item should appear with the "Download ZIP" option - click again.
 * Now you just need to unpack the downloaded file and open it in your favorite editor.
 * you must enter the appropriate folder (command "cd" + file name, e.g. cd excursionfile)
-* you must to install all packages via npm install
-* then you can start npm start
+* you must to install all packages via *npm install*
+* then you can start *npm start*
 
 
 JSON SERVER
@@ -50,10 +48,6 @@ http: // localhost: 3005 / meeting
 
 ----
 
-do you want to watch it live?  :arrow_forward:[click me :) :arrow_forward:
-]( https://martynakil.github.io/STONE-PAPER-SCISSORS-GAME/game_paper:stone:scissors/index.html )
-
-——
 
 
 :computer: TECHNOLOGIES : HTML, CSS  and REACT, JSON-SERVER, WEBPACK
