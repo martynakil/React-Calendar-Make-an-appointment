@@ -55,8 +55,8 @@ http: // localhost: 3005 / meeting
 
 
 ———>
-My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](
-▶️ :arrow_forward:   :arrow_backward:
+
+:speaker: :speaker: My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/form-with-validation) :arrow_left: :arrow_left: :arrow_left:
 
 
 
