@@ -1,8 +1,7 @@
 
 <h1> Make an appointment! React Calendar </h1>
 
- 
-*<h2>Simple application  "add a note"* :blue_book:</h2>
+
 >from the series: I'm learning React! :muscle:
 
 ----
