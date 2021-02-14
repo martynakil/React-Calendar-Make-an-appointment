@@ -5,7 +5,8 @@
 >from the series: I'm learning React! :muscle:
 
 ----
-*<h4>My task was to create a form that stores information about the meeting with a given person. The data is stored in the local API.</h4>*
+<h4>My task was to create a form that stores information about the meeting with a given person. The data is stored in the local API.</h4>
+
 *In this project, I studied components in React* * :blush:
 -------
 
