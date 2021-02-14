@@ -40,7 +40,7 @@ go to the root directory and type
 
 json-server --watch ./db/data.json --port 3005
 
-
+----
 
 From now on, you can use the API at:
 
